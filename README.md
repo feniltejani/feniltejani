@@ -4,6 +4,10 @@
 
 <p align="center">Hello I'm Fenil</p>
 
+<br clear="both">
+
+<p align="center">Hello I'm Fenil</p>
+
 ###
 
 <br clear="both">
@@ -120,21 +124,31 @@
 
 ###
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/180031615"  />
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/180031615"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/feniltejani/feniltejani/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=feniltejani.feniltejani&left_text=Welcome%20all%20the%20visitors"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=feniltejani.feniltejani&left_text=Welcome%20all%20the%20visitors"  />
+</div>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/313up5gi2xr46wfqz3e4i6gwlycy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313up5gi2xr46wfqz3e4i6gwlycy&count=1" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313up5gi2xr46wfqz3e4i6gwlycy&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
