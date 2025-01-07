@@ -6,8 +6,6 @@
 
 <br clear="both">
 
-<p align="center">Hello I'm Fenil</p>
-
 ###
 
 <br clear="both">
