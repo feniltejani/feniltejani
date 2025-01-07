@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 <br clear="both">
 
 <p align="center">Hello I'm Fenil</p>
@@ -77,6 +76,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=feniltejani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feniltejani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -119,9 +120,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/180031615?v=4&size=64"  />
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/180031615"  />
 
 ###
 
@@ -129,22 +128,20 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=feniltejani.feniltejani&left_color=black&right_color=white&left_text=welcome%20to%20all%20the%20visitors%20"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=feniltejani.feniltejani&left_text=Welcome%20all%20the%20visitors"  />
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Feniltejani">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Feniltejani&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/313up5gi2xr46wfqz3e4i6gwlycy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313up5gi2xr46wfqz3e4i6gwlycy&count=1" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=feniltejani&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
